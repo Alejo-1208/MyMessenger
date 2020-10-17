@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMessenger</string>
+    <string name="location">Enter Source Location</string>
+    <string name="destination">Enter Destination Location</string>
+    <string name="send">Send message</string>
+    <string name="maps">Maps</string>
+</resources>
